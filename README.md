@@ -1,2 +1,2 @@
 # Java sources code
-# Don't steal other people's wisdom Here
+# 請尊重著作
